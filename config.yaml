@@ -1,0 +1,5 @@
+feedly:
+  api_key: "APIKEYHERE"
+  num_trends: 20
+  days_ago: 30
+  nlp_id: nlp/f/topic/1874 
